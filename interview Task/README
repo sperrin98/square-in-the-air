@@ -1,0 +1,20 @@
+Front-End Developer Creative Test
+
+Deadline: Tuesday 12th August, 5:30 pm (UK time)
+
+Overview
+
+Square in the Air is launching a brand-new slot game called Spice Riches and we are tasking you with creating a promotional landing page to build excitement and capture user interest. The page should be visually appealing, engaging, and encourage visitors to register their interest in the game’s launch. How you achieve this is entirely up to you — we are looking for creativity, technical skill, and clean, maintainable code. We have provided assets for the game, but you are welcome to add to these with other visuals if you wish.
+
+Core Requirements
+* Single viewport-sized landing page promoting the slot game.
+* A clear call-to-action encouraging the user to register interest (this could be a form, a button, or something more creative).
+* Responsive design — the page should look and function well on mobile and desktop (1920x1080 and 360x800 primarily)
+* All code must be hand-written (no page builders or drag-and-drop generators).
+* Please Use HTML, CSS/SCSS, and JavaScript (frameworks are optional but not required).
+
+Deliverables
+1. Project files — HTML, CSS/SCSS, JS, and assets in a tidy folder structure.
+2. Git repository link — public or private (share access if private).
+3. Live demo link — deploy using GitHub Pages, Netlify, or Vercel.
+4. README file — any required information for us before opening.
